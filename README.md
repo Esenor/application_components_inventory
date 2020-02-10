@@ -1,3 +1,5 @@
+![integration Github action badges](https://github.com/Esenor/application_components_inventory/workflows/code_style/badge.svg)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
